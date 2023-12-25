@@ -21,7 +21,7 @@ keras, numpy, opencv have been used.
 
 ## Screenshots
 
-| ![mask](mask.png) |
+| ![mask](mask_frame.png) |
 | :--:|
 | *Output with Mask* |
 
